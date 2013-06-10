@@ -10,10 +10,12 @@ For example:
 ## Requirements
 
 Hardware
+
 * Raspberry Pi with [Adafruit Occidentals 0.2 distro](http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occidentalis-v0-dot-2) (or similar with enabled SPI support)
 * Akafugu VFD Raspberry Pi shield
 
 Software
+
     sudo apt-get install python-pip
     sudo pip install wiringpi2
     sudo pip install spidev
