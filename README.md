@@ -7,7 +7,7 @@ Current usage for commandline testing:
 
 Will output a list of four letter words to stdout, one every 500ms.
 
-## generating wordlist
+## Generating wordlist.txt
 
 (You should never really need to do this...)
 
