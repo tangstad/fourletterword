@@ -1,5 +1,15 @@
+# fourletterword
+## Four letter word generator for Akafugu VFD shield
+
+Current usage for commandline testing:
+
+    ./generate.py wordlist.txt
+
+Will output a list of four letter words to stdout, one every 500ms.
 
 ## generating wordlist
+
+(You should never really need to do this...)
 
 To generate wordlist.txt from the original, you can do the following:
 
